@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OrangeTreeTest
-build_property.ProjectDir = C:\Users\nfoll\source\repos\UCL\Semester_1\Programmering\Pr09_OrangeTree\OrangeTreeSim\OrangeTreeTest\
+build_property.ProjectDir = C:\Users\nfoll\source\repos\Studiegruppe_16\OrangeTreeSim\OrangeTreeTest\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

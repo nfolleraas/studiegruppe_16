@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrangeTreeSim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2048a835bed1bf21f67737ba74923f7237ef74c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c70a7683e6b74c975568d0b8aeb0b1899aa1bdf")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrangeTreeSim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrangeTreeSim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

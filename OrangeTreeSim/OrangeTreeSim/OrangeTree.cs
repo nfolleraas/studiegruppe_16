@@ -58,6 +58,7 @@ namespace OrangeTreeSim
         {
             age++;
             numOranges = 0;
+            orangesEaten = 0;
             
             if (age < 80)
             {

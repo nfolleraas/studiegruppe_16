@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ok9ZoD3UZPs=",
+  "dgSpecHash": "CiRyYnd6MA8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nfoll\\source\\repos\\UCL\\Semester_1\\Programmering\\Pr09_OrangeTree\\OrangeTreeSim\\OrangeTreeTest\\OrangeTreeTest.csproj",
+  "projectFilePath": "C:\\Users\\nfoll\\source\\repos\\Studiegruppe_16\\OrangeTreeSim\\OrangeTreeTest\\OrangeTreeTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nfoll\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\nfoll\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
